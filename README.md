@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes an insurance claims dataset from the American insurance market using Excel, Python, and Power BI to uncover trends and insights in to fraudlent claims. The project follows five distinct phases:
+This project analyzes an insurance claims dataset from the American insurance market using Excel, Python, and Power BI to uncover trends and insights into fraudlent claims. The project follows five distinct phases:
 
 1. Data Cleansing
 2. Data Exploration
