@@ -79,11 +79,3 @@ This project analyzes an insurance claims dataset from the American insurance ma
 
 - Offers a detailed view of selections made in the 'Fraudulent Claims Analysis' tab.
 - Allows users to delve deeper into the data behind identified trends.
-
-     Filters have been utilised at the top right of the screen to allow the use to select a specifci year, sex, policy state and\or age group to focus in on.
-     KPIs have been included down the left hand side of the tab to draw the users eye to high level stats
-     Pie charts, bar and combo charts have then been used in the centre of the tab to focus the user on primary fields related to fraud as identified in the Jupyter        notebook.
-
-  **2.  Fraudulent Claims Detail**
-
-    This tab allows the user to see a deeper level of detail on selections that have made in the 'Fraudulent Claims Analysis' tab. This allows the oppotunity for          the user to dealve deeper into the detail behind the trends that have been identified in the previous tab.
