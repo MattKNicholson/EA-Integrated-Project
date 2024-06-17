@@ -25,18 +25,18 @@ Using Python libraries, we are able to explore the cleansed dataset to understan
 
 We can look for any immediate stand out statistics via the "describe" function and ensure that all data is in an appriate format by using the "info" function across all data fields.
 
-**3.  Feature engineering and extraction**
+**3.0  Feature engineering and extraction**
 
 Here we seek to dig further into the data to begin to extract insights.
 
-**3.1 ** The creation of additional features such as age groupings, where are firstly explored via graphical analysis and then acted upon through creating "age bins" for onward analysis.
+**3.1** The creation of additional features such as age groupings, where are firstly explored via graphical analysis and then acted upon through creating "age bins" for onward analysis.
 Year, month and day fields are dervived via the 'incident_date' field.
 
-**3.2 ** Additional numerical value fields are calculated and created through joining existing data fields together, i.e. a new 'fraudlent_claims_amount' field is calculated by pulling through the 'total_claims_amount' values where the 'fraud_reported' column is equal to 'y'. This saves processing time and complexity further down the line in the Power BI dashboard.
+**3.2** Additional numerical value fields are calculated and created through joining existing data fields together, i.e. a new 'fraudlent_claims_amount' field is calculated by pulling through the 'total_claims_amount' values where the 'fraud_reported' column is equal to 'y'. This saves processing time and complexity further down the line in the Power BI dashboard.
 
-**3.3 **  I have then used additional external courses of data, Forbes.com, to indentify that fraud is a major area of concern within the American insurance industry - see images that have been bought through into the Jupyter notebook as evidence.
+**3.3**  I have then used additional external courses of data, Forbes.com, to indentify that fraud is a major area of concern within the American insurance industry - see images that have been bought through into the Jupyter notebook as evidence.
 
-**3.4 **  With that in mind, graphical analysis of the new 'fraudlent_claims_amount' column has been run against other key fields to see if trends \ insights can be identified - see histogram, pairplot and bar charts in the notebook
+**3.4**   With that in mind, graphical analysis of the new 'fraudlent_claims_amount' column has been run against other key fields to see if trends \ insights can be identified - see histogram, pairplot and bar charts in the notebook
     
 **4.0  Data modeling**
 
