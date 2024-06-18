@@ -79,6 +79,7 @@ The project follows five distinct phases:
 ## 5. Visualization in Power BI
 
 - Developed a Power BI dashboard to provide end users with data insights and enable visual data discovery.
+- See the Power BI dashboard included in this repo along with the images within the "image" folder for a quick view of the dashboard tabs.
 
 ### 5.1 Fraudulent Claims Analysis
 
